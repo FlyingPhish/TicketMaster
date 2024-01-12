@@ -1,0 +1,8 @@
+{
+    "jira_server_url": "https://x.atlassian.net",
+    "basic_auth": {
+      "username": "x",
+      "api_token": "x"
+    }
+  }
+  
